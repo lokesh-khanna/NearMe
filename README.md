@@ -165,13 +165,13 @@ Simple and relax with play area.
 </html>
 ```
 ## Output:
-![Output(./bdo.png)
-![Output(./bus.png)
-![Output(./ft.png)
-![Output(./gh.png)
-![Output(./vl.png)
+![Output](./bdo.png)
+![Output](./bus.png)
+![Output](./ft.png)
+![Output](./gh.png)
+![Output](./vl.png)
 ## HTML validator
-![Output(./valid1.png)
+![Output](./valid1.png)
 
 ## Result:
 Write your result
